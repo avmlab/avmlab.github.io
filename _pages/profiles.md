@@ -12,9 +12,9 @@ profiles:
   - align: right
     image: alex_van_meegen.jpg
     content: about_vanmeegen.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
   - align: left
     image: max_wollgarten.jpg
     content: about_wollgarten.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
 ---
