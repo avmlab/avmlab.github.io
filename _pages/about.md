@@ -2,16 +2,17 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Statistical Physics of Information Processing in Neuronal Networks
 
 profile:
   align: right
   image: alex_van_meegen.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <a href='https://rwthcontacts.rwth-aachen.de/person/PER-P8HANEN'>Prof. Alexander van Meegen</a>
+    <p>Modulbau Physik, Office 112</p>
+    <p>Otto-Blumenthal-Str. 12</p>
+    <p>52074 Aachen, Germany</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +28,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+#### Welcome!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+We are a research group working at the intersection of Computational Neuroscience, Machine Learning, and Theoretical Physics. The group is part of the [Department of Physics](https://www.physik.rwth-aachen.de) at [RWTH Aachen University](https://www.rwth-aachen.de).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Our goal is to develop a theoretical understanding of the principles underlying information processing in neural networks. 
+We investigate both biological and artificial networks, with a current focus on the latter due to their analytical and computational tractability.
+Using tools from statistical physics, we study how these networks learn, represent, and transform information.
+In the long term, we hope to identify generalizable principles that can inform translational research and, ultimately, clinical applications.
+
+
+If our research, teaching, or outreach interest you, drop us an email or come by!
