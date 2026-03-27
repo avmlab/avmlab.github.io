@@ -37,5 +37,6 @@ We investigate both biological and artificial networks, with a current focus on 
 Using tools from statistical physics, we study how these networks learn, represent, and transform information.
 In the long term, we hope to identify generalizable principles that can inform translational research and, ultimately, clinical applications.
 
+We’re currently looking for motivated members to join our group, in particular in the context of a Bachelor or Master thesis in Physics. If you’re passionate about computational neuroscience and machine learning, and eager to contribute to cutting-edge research, we’d love to hear from you!
 
 If our research, teaching, or outreach interest you, drop us an email or come by!

@@ -8,4 +8,4 @@ Previously, I was PostDoc at EPFL in [Wulfram Gerstner's Lab](https://www.epfl.c
 *Office:* MBP 112, Otto-Blumenthal-Str. 12, 52074 Aachen\
 *Phone:* [+49 241 80-40310](tel:+49 241 80-40310)\
 *Mail:* [alexander.van.meegen@rwth-aachen.de](mailto:alexander.van.meegen@rwth-aachen.de)\
-*Website:* [alexvanmeegen.github.io/](https://alexvanmeegen.github.io/)
+*Website:* [alexvanmeegen.github.io](https://alexvanmeegen.github.io/)
