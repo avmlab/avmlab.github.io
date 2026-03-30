@@ -11,7 +11,7 @@ course_id: seminar-current-topics
 
 ## Course Overview
 
-In this seminar, we will discuss currently influential ideas and approaches in the theory of deep learning, for example double descent, neural tangent kernel, or muP-parameterization. By the end of the seminar, students will
+In this seminar, we will discuss currently influential ideas and approaches in the theory of deep learning, for example double descent, neural tangent kernel, or muP-parameterization. By the end of the seminar, participants will
 
 - have an overview of central approaches in the theory of deep learning.
 - understand some of the main challenges, for example related to optimization, generalization, or feature learning.
