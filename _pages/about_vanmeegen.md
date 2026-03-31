@@ -1,6 +1,6 @@
 #### Alexander van Meegen
 
-*Group Leader*
+_Group Leader_
 
 I am an assistant professor (W1) in the Department of Physics at RWTH Aachen.
 Previously, I was PostDoc at EPFL in [Wulfram Gerstner's Lab](https://www.epfl.ch/labs/lcn/) and Swartz Fellow at Harvard's [Center for Brain Science](https://cbs.fas.harvard.edu/) working with Haim Sompolinsky.
