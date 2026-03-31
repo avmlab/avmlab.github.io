@@ -30,11 +30,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-join-us",
+          title: "Join Us",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/joining/";
+          },
         },{id: "news-official-start-of-the-lab-at-rwth-aachen-university",
           title: 'Official start of the lab at RWTH Aachen University.',
           description: "",
           section: "News",},{id: "news-max-wollgarten-joined-the-lab-as-a-phd-student-welcome-max",
           title: 'Max Wollgarten joined the lab as a PhD student. Welcome Max!',
+          description: "",
+          section: "News",},{id: "news-louis-pezon-presented-a-postern-on-our-joint-work-hallmarks-of-computation-via-shared-latent-dynamical-motifs-at-cosyne",
+          title: 'Louis Pezon presented a postern on our joint work “Hallmarks of computation via...',
           description: "",
           section: "News",},{id: "teachings-seminar-current-topics-in-deep-learning-theory",
           title: 'Seminar - Current Topics in Deep Learning Theory',
