@@ -3,8 +3,7 @@ layout: about
 title: Home
 permalink: /
 subtitle: >
-  Statistical Physics of Information Processing in Neuronal Networks<br>
-  RWTH Aachen University, Aachen (Aix-la-Chapelle), Germany
+  <b><a href="https://rwthcontacts.rwth-aachen.de/organization/ORG-83NUS">Statistical Physics of Information Processing in Neuronal Networks</a></b>
 
 profile:
   align: right
@@ -32,7 +31,7 @@ latest_posts:
 
 ## Welcome!
 
-We are a research group working at the intersection of Computational Neuroscience, Machine Learning, and Statistical Physics. The group is part of the [Department of Physics](https://www.physik.rwth-aachen.de) at [RWTH Aachen University](https://www.rwth-aachen.de).
+We are a research group working at the intersection of Computational Neuroscience, Machine Learning, and Statistical Physics. The group is part of the [Department of Physics at RWTH Aachen University](https://www.physik.rwth-aachen.de).
 
 Our goal is to develop a theoretical understanding of the principles underlying information processing in neural networks.
 We investigate both biological and artificial networks, with a current focus on the latter due to their analytical and computational tractability.

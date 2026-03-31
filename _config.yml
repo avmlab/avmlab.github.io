@@ -2,12 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: SPINN-AIX Lab # the website title (if blank, full name will be used instead)
+title: van Meegen Lab # the website title (if blank, full name will be used instead)
 first_name: Alexander
 last_name: van Meegen
 contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Lab page of the SPINN-AIX Lab at RWTH Aachen University.
+  Lab page of the van Meegen Lab at RWTH Aachen University.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
