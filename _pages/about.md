@@ -34,7 +34,7 @@ latest_posts:
 
 We are a research group working at the intersection of Computational Neuroscience, Machine Learning, and Statistical Physics. The group is part of the [Department of Physics](https://www.physik.rwth-aachen.de) at [RWTH Aachen University](https://www.rwth-aachen.de).
 
-Our goal is to develop a theoretical understanding of the principles underlying information processing in neural networks. 
+Our goal is to develop a theoretical understanding of the principles underlying information processing in neural networks.
 We investigate both biological and artificial networks, with a current focus on the latter due to their analytical and computational tractability.
 Using tools from statistical physics, we study how these networks learn, represent, and transform information.
 In the long term, we hope to identify generalizable principles that can inform translational research and, ultimately, clinical applications.
