@@ -104,39 +104,26 @@ function initializeCookieConsent() {
       }
     },
 
-    // Callback when user accepts/rejects consent
-    onFirstConsent: function(consentData) {
-      updateConsentMode(consentData);
-    },
-
-    // Callback when user changes preferences
-    onChange: function(consentData) {
-      updateConsentMode(consentData);
-    }
+    onFirstConsent: updateConsentMode,
+    onConsent: updateConsentMode,
+    onChange: updateConsentMode
   });
 
   /**
    * Update Google Consent Mode based on user preferences
    * This ensures Google services respect user choices
    */
-  function updateConsentMode(consentData) {
-    // Handle both callback data structures
-    var categories = consentData.categories || consentData;
-
-    // Ensure categories is an object
-    if (!categories || typeof categories !== 'object') {
-      console.warn('Invalid consent data structure:', consentData);
-      return;
-    }
+  function updateConsentMode() {
+    var analyticsGranted = CookieConsent.acceptedCategory('analytics');
 
     gtag('consent', 'update', {
-      'analytics_storage': categories.analytics ? 'granted' : 'denied',
+      'analytics_storage': analyticsGranted ? 'granted' : 'denied',
       'ad_storage': 'denied',
       'functionality_storage': 'denied',
       'personalization_storage': 'denied'
     });
 
-    if (categories.analytics) {
+    if (analyticsGranted) {
       console.debug('✓ Analytics consent granted - tracking enabled for all providers');
       // Analytics scripts with data-category="analytics" will automatically run
       // when the library re-evaluates them after this consent update
@@ -154,4 +141,3 @@ function initializeCookieConsent() {
 
 // Initialize when the library is available
 initializeCookieConsent();
-
