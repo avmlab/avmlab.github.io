@@ -107,7 +107,6 @@ function initializeCookieConsent() {
       }
     },
 
-    onFirstConsent: updateConsentMode,
     onConsent: updateConsentMode,
     onChange: updateConsentMode
   });
