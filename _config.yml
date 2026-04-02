@@ -127,7 +127,19 @@ include: ["_pages", "_scripts"]
 exclude:
   - assets/audio/epicaly-short-113909.mp3
   - assets/bibliography/2018-12-22-distill.bib
+  - assets/html/relativity.html
+  - assets/img/book_covers/the_godfather.jpg
+  - assets/img/publication_preview/brownian-motion.gif
+  - assets/img/publication_preview/wave-mechanics.gif
+  - assets/img/[0-9]*.jpg
+  - assets/img/prof_pic.jpg
+  - assets/img/prof_pic_color.png
+  - assets/img/rhino.png
+  - assets/json/resume.json
+  - assets/json/table_data.json
   - assets/pdf/example_pdf.pdf
+  - assets/plotly/*
+  - assets/rendercv/*
   - assets/video/pexels-engin-akyurt-6069112-960x540-30fps.mp4
   - assets/video/tutorial_al_folio.mp4
   - bin/
