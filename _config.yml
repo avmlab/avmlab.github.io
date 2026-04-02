@@ -125,7 +125,15 @@ kramdown:
 # Includes & excludes
 include: ["_pages", "_scripts"]
 exclude:
+  - assets/audio/epicaly-short-113909.mp3
+  - assets/bibliography/2018-12-22-distill.bib
+  - assets/pdf/example_pdf.pdf
+  - assets/video/pexels-engin-akyurt-6069112-960x540-30fps.mp4
+  - assets/video/tutorial_al_folio.mp4
   - bin/
+  - AGENTS.md
+  - ANALYTICS.md
+  - CLAUDE.md
   - CONTRIBUTING.md
   - CUSTOMIZE.md
   - Dockerfile
@@ -140,9 +148,12 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
+  - QUICKSTART.md
   - purgecss.config.js
   - README.md
   - readme_preview/
+  - SEO.md
+  - TROUBLESHOOTING.md
   - vendor
   - _news/announcement_*.md
   - _pages/about_einstein.md
