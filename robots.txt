@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://avmlab.github.io/sitemap.xml
+Sitemap: https://avmlab.physik.rwth-aachen.de//sitemap.xml
