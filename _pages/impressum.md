@@ -2,36 +2,36 @@
 layout: page
 title: Impressum
 permalink: /impressum/
-description: Impressum of the lab page of the Junior Professor for Statistical physics of information processing in neuronal networks at RWTH Aachen University.
+description: Impressum der Webseite der Juniorprofessur für Statistische Physik der Informationsverarbeitung in neuronalen Netzwerken an der RWTH Aachen.
 ---
 
 ## Verantwortlich für den Inhalt
 
-Prof. Alexander van Meegen
-Juniorprofessur für Statistische Physik der Informationsverarbeitung in neuronalen Netzwerken 
-Rheinisch-Westfälische Technische Hochschule (RWTH) Aachen
-Otto-Blumenthal-Str. 12
-52074 Aachen
-Deutschland
-Phone: +49 241 80-40310
+Prof. Alexander van Meegen<br>
+Juniorprofessur für Statistische Physik der Informationsverarbeitung in neuronalen Netzwerken<br>
+Rheinisch-Westfälische Technische Hochschule (RWTH) Aachen<br>
+Otto-Blumenthal-Str. 12<br>
+52074 Aachen<br>
+Deutschland<br>
+Phone: +49 241 80-40310<br>
 Email: [alexander.van.meegen@rwth-aachen.de](mailto:alexander.van.meegen@rwth-aachen.de)
 
 ## Institutionelle Zugehörigkeit
 
-Rheinisch-Westfälische Technische Hochschule (RWTH) Aachen
-Templergraben 55
-52062 Aachen
-Deutschland
+Rheinisch-Westfälische Technische Hochschule (RWTH) Aachen<br>
+Templergraben 55<br>
+52062 Aachen<br>
+Deutschland<br>
 Internet: [www.rwth-aachen.de](https://www.rwth-aachen.de)
 
 ## Hosting
 
 Diese Website wird über GitHub Pages bereitgestellt:
 
-GitHub, Inc.
-88 Colin P Kelly Jr St
-San Francisco, CA 94107
-USA
+GitHub, Inc.<br>
+88 Colin P Kelly Jr St<br>
+San Francisco, CA 94107<br>
+USA<br>
 [Datenschutzerklärung von GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
 
 Beim Aufruf dieser Website werden durch GitHub Pages automatisch Verbindungsdaten (u. a. IP-Adresse, Zeitpunkt des Zugriffs) protokolliert. Dies liegt im berechtigten Interesse des Betreibers (Art. 6 Abs. 1 lit. f DSGVO). Auf die Verarbeitung dieser Daten durch GitHub haben wir keinen Einfluss. 
