@@ -9,6 +9,8 @@ time: Tuesdays 02:30-04:30 PM
 course_id: seminar-current-topics
 ---
 
+Organization via [moodle](https://moodle.rwth-aachen.de/course/view.php?id=59878).
+
 ## Course Overview
 
 In this seminar, we will discuss currently influential ideas and approaches in the theory of deep learning, for example double descent, neural tangent kernel, or muP-parameterization. By the end of the seminar, participants will
