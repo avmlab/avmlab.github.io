@@ -13,4 +13,4 @@ We’re currently looking for motivated members to join our group. If you’re p
 
 **PhD / Postdoc:** Currently, there is no funded position available in the lab. Nonetheless, please reach out with a brief introduction and your CV if our research resonates with you to discuss possible future opportunities or joint applications for funding.
 
-**Get in touch:** Drop us an [email](mailto:alexander.van.meegen@rwth-aachen.de) or stop by Office 112 in Modulbau Physik.
+**Get in touch:** Drop us an [email](mailto:vanmeegen@physik.rwth-aachen.de) or stop by Office 112 in Modulbau Physik.
