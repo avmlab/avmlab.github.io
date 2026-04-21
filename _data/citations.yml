@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-30'
+  last_updated: '2026-04-13'
 papers:
   2HpXCQ0AAAAJ:0EnyYjriUFMC:
     citations: 17
@@ -10,11 +10,11 @@ papers:
     title: Simulation and theory of large-scale cortical networks
     year: '2022'
   2HpXCQ0AAAAJ:5nxA0vEk-isC:
-    citations: 9
+    citations: 10
     title: Connectivity structure and dynamics of nonlinear recurrent neural networks
     year: '2025'
   2HpXCQ0AAAAJ:8k81kl-MbHgC:
-    citations: 19
+    citations: 20
     title: Fixed point geometry in chaotic neural networks
     year: '2025'
   2HpXCQ0AAAAJ:KlAtU1dfN6UC:
@@ -50,7 +50,7 @@ papers:
     title: Multi-scale spiking network model of human cerebral cortex
     year: '2024'
   2HpXCQ0AAAAJ:u5HHmVD_uO8C:
-    citations: 26
+    citations: 27
     title: Self-Consistent Correlations of Randomly Coupled Rotators in the Asynchronous State
     year: '2018'
   2HpXCQ0AAAAJ:ufrVoPGSRksC:
