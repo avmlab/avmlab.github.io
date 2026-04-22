@@ -17,7 +17,7 @@ profiles:
     content: about_wollgarten.md
     image_circular: true # crops the image to make it circular
   - align: right
-    image: person_image_placeholder.png
+    image: timm_vordermark.jpg
     content: about_vordermark.md
     image_circular: true # crops the image to make it circular
 ---
