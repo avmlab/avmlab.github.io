@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-04'
+  last_updated: '2026-06-05'
 papers:
   2HpXCQ0AAAAJ:0EnyYjriUFMC:
-    citations: 18
+    citations: 20
     title: Coding schemes in neural networks learning classification tasks
     year: '2025'
   2HpXCQ0AAAAJ:3fE2CSJIrl8C:
@@ -10,7 +10,7 @@ papers:
     title: Simulation and theory of large-scale cortical networks
     year: '2022'
   2HpXCQ0AAAAJ:5nxA0vEk-isC:
-    citations: 11
+    citations: 13
     title: Connectivity structure and dynamics of nonlinear recurrent neural networks
     year: '2025'
   2HpXCQ0AAAAJ:8k81kl-MbHgC:
@@ -18,15 +18,15 @@ papers:
     title: Fixed point geometry in chaotic neural networks
     year: '2025'
   2HpXCQ0AAAAJ:KlAtU1dfN6UC:
-    citations: 3
-    title: Flat Channels to Infinity in Neural Loss Landscapes
-    year: '2025'
+    citations: 4
+    title: Flat channels to infinity in neural loss landscapes
+    year: '2026'
   2HpXCQ0AAAAJ:LkGwnXOMwfcC:
-    citations: 34
+    citations: 35
     title: Unified field theoretical approach to deep and recurrent neuronal networks
     year: '2022'
   2HpXCQ0AAAAJ:Se3iqnhoufwC:
-    citations: 13
+    citations: 12
     title: Ubiquitous lognormal distribution of neuron densities in mammalian cerebral cortex
     year: '2023'
   2HpXCQ0AAAAJ:UeHWp8X0CEIC:
@@ -38,15 +38,15 @@ papers:
     title: 'Large-Deviation Approach to Random Recurrent Neuronal Networks: Parameter Inference and Fluctuation-Induced Transitions'
     year: '2021'
   2HpXCQ0AAAAJ:eQOLeE2rZwMC:
-    citations: 11
+    citations: 12
     title: Usage and scaling of an open-source spiking multi-area model of monkey cortex
     year: '2019'
   2HpXCQ0AAAAJ:hqOjcs7Dif8C:
-    citations: 7
+    citations: 9
     title: Linking network-and neuron-level correlations by renormalized field theory
     year: '2024'
   2HpXCQ0AAAAJ:roLk4NBRz8UC:
-    citations: 19
+    citations: 22
     title: Multi-scale spiking network model of human cerebral cortex
     year: '2024'
   2HpXCQ0AAAAJ:u5HHmVD_uO8C:
@@ -54,6 +54,6 @@ papers:
     title: Self-Consistent Correlations of Randomly Coupled Rotators in the Asynchronous State
     year: '2018'
   2HpXCQ0AAAAJ:ufrVoPGSRksC:
-    citations: 12
+    citations: 13
     title: 'NNMT: Mean-Field Based Analysis Tools for Neuronal Network Models'
     year: '2022'
