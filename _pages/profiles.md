@@ -20,4 +20,8 @@ profiles:
     image: timm_vordermark.jpg
     content: about_vordermark.md
     image_circular: true # crops the image to make it circular
+  - align: left
+    image: dimitar_martinov.jpg
+    content: about_martinov.md
+    image_circular: true # crops the image to make it circular
 ---
