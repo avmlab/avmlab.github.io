@@ -17,10 +17,14 @@ profiles:
     content: about_wollgarten.md
     image_circular: true # crops the image to make it circular
   - align: right
+    image: person_image_placeholder.png
+    content: about_schwabe.md
+    image_circular: true # crops the image to make it circular
+  - align: left
     image: timm_vordermark.jpg
     content: about_vordermark.md
     image_circular: true # crops the image to make it circular
-  - align: left
+  - align: right
     image: dimitar_martinov.jpg
     content: about_martinov.md
     image_circular: true # crops the image to make it circular
