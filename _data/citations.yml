@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-05'
 papers:
   2HpXCQ0AAAAJ:0EnyYjriUFMC:
-    citations: 22
+    citations: 23
     title: Coding schemes in neural networks learning classification tasks
     year: '2025'
   2HpXCQ0AAAAJ:3fE2CSJIrl8C:
@@ -14,23 +14,23 @@ papers:
     title: Connectivity structure and dynamics of nonlinear recurrent neural networks
     year: '2025'
   2HpXCQ0AAAAJ:8k81kl-MbHgC:
-    citations: 22
+    citations: 24
     title: Fixed point geometry in chaotic neural networks
     year: '2025'
   2HpXCQ0AAAAJ:KlAtU1dfN6UC:
-    citations: 5
+    citations: 4
     title: Flat channels to infinity in neural loss landscapes
     year: '2026'
   2HpXCQ0AAAAJ:LkGwnXOMwfcC:
-    citations: 36
+    citations: 38
     title: Unified field theoretical approach to deep and recurrent neuronal networks
     year: '2022'
   2HpXCQ0AAAAJ:Se3iqnhoufwC:
-    citations: 12
+    citations: 10
     title: Ubiquitous lognormal distribution of neuron densities in mammalian cerebral cortex
     year: '2023'
   2HpXCQ0AAAAJ:UeHWp8X0CEIC:
-    citations: 18
+    citations: 19
     title: Microscopic theory of intrinsic timescales in spiking neural networks
     year: '2021'
   2HpXCQ0AAAAJ:Y0pCki6q_DkC:
@@ -50,7 +50,7 @@ papers:
     title: Linking network-and neuron-level correlations by renormalized field theory
     year: '2024'
   2HpXCQ0AAAAJ:roLk4NBRz8UC:
-    citations: 23
+    citations: 25
     title: Multi-scale spiking network model of human cerebral cortex
     year: '2024'
   2HpXCQ0AAAAJ:u5HHmVD_uO8C:
