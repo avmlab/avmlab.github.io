@@ -1,6 +1,6 @@
 #### Emilio Scontrino
 
-_MSc Student (jointly with J. Erdmann)_
+_MSc Student (jointly with Johannes Erdmann)_
 
 I did my M.Sc. in Physics and decided to continue my studies with a M.Sc. in Data Science. Now I am working on my Master thesis in a collaboration between Prof. van Meegen and Prof. Johannes Erdmann, exploring feature learning and physical interpretability of machine learning on particle physics data sets.
 
