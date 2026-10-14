@@ -29,12 +29,12 @@ profiles:
     content: about_scontrino.md
     image_circular: true # crops the image to make it circular
   - align: left
-    image: person_image_placeholder.jpg
-    content: about_jaensch.md
+    image: maximilian_rechl.jpg
+    content: about_rechl.md
     image_circular: true # crops the image to make it circular
   - align: right
     image: person_image_placeholder.jpg
-    content: about_rechl.md
+    content: about_jaensch.md
     image_circular: true # crops the image to make it circular
   - align: left
     image: dimitar_martinov.jpg
