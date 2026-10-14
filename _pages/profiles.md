@@ -25,7 +25,23 @@ profiles:
     content: about_vordermark.md
     image_circular: true # crops the image to make it circular
   - align: right
+    image: emilio_scontrino.jpg
+    content: about_scontrino.md
+    image_circular: true # crops the image to make it circular
+  - align: left
+    image: person_image_placeholder.jpg
+    content: about_jaensch.md
+    image_circular: true # crops the image to make it circular
+  - align: right
+    image: person_image_placeholder.jpg
+    content: about_rechl.md
+    image_circular: true # crops the image to make it circular
+  - align: left
     image: dimitar_martinov.jpg
     content: about_martinov.md
+    image_circular: true # crops the image to make it circular
+  - align: right
+    image: person_image_placeholder.jpg
+    content: about_martinek.md
     image_circular: true # crops the image to make it circular
 ---
