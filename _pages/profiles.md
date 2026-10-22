@@ -41,7 +41,7 @@ profiles:
     content: about_martinov.md
     image_circular: true # crops the image to make it circular
   - align: right
-    image: person_image_placeholder.jpg
+    image: erik_martinek.jpg
     content: about_martinek.md
     image_circular: true # crops the image to make it circular
 ---
