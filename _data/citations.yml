@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-12'
+  last_updated: '2026-10-30'
 papers:
   2HpXCQ0AAAAJ:0EnyYjriUFMC:
-    citations: 23
+    citations: 25
     title: Coding schemes in neural networks learning classification tasks
     year: '2025'
   2HpXCQ0AAAAJ:3fE2CSJIrl8C:
@@ -10,27 +10,31 @@ papers:
     title: Simulation and theory of large-scale cortical networks
     year: '2022'
   2HpXCQ0AAAAJ:5nxA0vEk-isC:
-    citations: 22
+    citations: 25
     title: Connectivity structure and dynamics of nonlinear recurrent neural networks
     year: '2025'
   2HpXCQ0AAAAJ:8k81kl-MbHgC:
-    citations: 24
+    citations: 26
     title: Fixed point geometry in chaotic neural networks
     year: '2025'
   2HpXCQ0AAAAJ:KlAtU1dfN6UC:
-    citations: 4
+    citations: 5
     title: Flat channels to infinity in neural loss landscapes
     year: '2026'
   2HpXCQ0AAAAJ:LkGwnXOMwfcC:
-    citations: 38
+    citations: 40
     title: Unified field theoretical approach to deep and recurrent neuronal networks
     year: '2022'
   2HpXCQ0AAAAJ:Se3iqnhoufwC:
-    citations: 10
+    citations: 11
     title: Ubiquitous lognormal distribution of neuron densities in mammalian cerebral cortex
     year: '2023'
+  2HpXCQ0AAAAJ:ULOm3_A8WrAC:
+    citations: 0
+    title: Teacher Geometry Shapes Learnability in Teacher-Student Networks
+    year: '2026'
   2HpXCQ0AAAAJ:UeHWp8X0CEIC:
-    citations: 19
+    citations: 21
     title: Microscopic theory of intrinsic timescales in spiking neural networks
     year: '2021'
   2HpXCQ0AAAAJ:Y0pCki6q_DkC:
@@ -46,11 +50,11 @@ papers:
     title: Usage and scaling of an open-source spiking multi-area model of monkey cortex
     year: '2019'
   2HpXCQ0AAAAJ:hqOjcs7Dif8C:
-    citations: 9
+    citations: 11
     title: Linking network-and neuron-level correlations by renormalized field theory
     year: '2024'
   2HpXCQ0AAAAJ:roLk4NBRz8UC:
-    citations: 26
+    citations: 29
     title: Multi-scale spiking network model of human cerebral cortex
     year: '2024'
   2HpXCQ0AAAAJ:u5HHmVD_uO8C:
