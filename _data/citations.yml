@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-10-30'
+  last_updated: '2026-11-04'
 papers:
   2HpXCQ0AAAAJ:0EnyYjriUFMC:
     citations: 25
@@ -22,7 +22,7 @@ papers:
     title: Flat channels to infinity in neural loss landscapes
     year: '2026'
   2HpXCQ0AAAAJ:LkGwnXOMwfcC:
-    citations: 40
+    citations: 41
     title: Unified field theoretical approach to deep and recurrent neuronal networks
     year: '2022'
   2HpXCQ0AAAAJ:Se3iqnhoufwC:
@@ -38,7 +38,7 @@ papers:
     title: Microscopic theory of intrinsic timescales in spiking neural networks
     year: '2021'
   2HpXCQ0AAAAJ:Y0pCki6q_DkC:
-    citations: 27
+    citations: 28
     title: 'Large-Deviation Approach to Random Recurrent Neuronal Networks: Parameter Inference and Fluctuation-Induced Transitions'
     year: '2021'
   2HpXCQ0AAAAJ:Zph67rFs4hoC:
