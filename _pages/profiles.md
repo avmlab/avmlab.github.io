@@ -13,7 +13,7 @@ profiles:
     content: about_vanmeegen.md
     image_circular: true # crops the image to make it circular
   - align: left
-    image: person_image_placeholder.png
+    image: max_wollgarten.png
     content: about_wollgarten.md
     image_circular: true # crops the image to make it circular
   - align: right
